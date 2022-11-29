@@ -4,7 +4,7 @@
 
 <br/>
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=osvaldosoares-hub&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="osvaldo" />
+<img src="https://github-readme-stats.vercel.app/api?username=osvaldosoares-hub&show_icons=true&theme=dracula&count_private=false&include_all_commits=false" alt="osvaldo" />
 </a>
 
 ----
