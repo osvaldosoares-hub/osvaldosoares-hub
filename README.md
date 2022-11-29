@@ -9,7 +9,7 @@
 
 ----
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehumphrey&layout=compact&langs_count=6&theme=dracula" alt="thehumphreyLangs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldosoares-hub&layout=compact&langs_count=6&theme=dracula" alt="thehumphreyLangs" />
 
 ----
 
