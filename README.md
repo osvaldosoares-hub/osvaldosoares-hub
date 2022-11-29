@@ -45,7 +45,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="express" width="45" height="45"/>
 
 ----
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobarrosdelima/)](https://www.linkedin.com/in/fernandobarrosdelima/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osvaldo-soa-4264211b5/)]((https://www.linkedin.com/in/osvaldo-soa-4264211b5/))
 ----
 
 ![snake gif](https://github.com/thehumphrey/thehumphrey/blob/output/github-contribution-grid-snake.svg)
