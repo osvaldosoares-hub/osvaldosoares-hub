@@ -14,7 +14,7 @@
 ----
 
 <h3 align="center">Front-end</h3>
-<div display="flex">
+<div display="flex" flex-wrap="wrap">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> 
